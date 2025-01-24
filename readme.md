@@ -73,3 +73,23 @@ This project analyzes an **eCommerce transactions dataset**, uncovering valuable
 ```bash
 git clone <your-repo-link>
 cd <your-repo-folder>
+
+---
+
+## 📦 **Dependencies & Installation**  
+
+Before running the notebooks, make sure you have the following Python packages installed:  
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+🛠️ Required Libraries
+pandas → Data manipulation
+numpy → Numerical computations
+matplotlib → Data visualization
+seaborn → Statistical plots
+scikit-learn → Machine learning models
+jupyter → Running notebooks
+
+This ensures a smooth setup for your analysis. Let me know if you need any changes! 🚀
+
